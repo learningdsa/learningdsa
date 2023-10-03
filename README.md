@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pranshulmashta/pranshulmashta/main/pngwing.com.png" width=40% align="right">
+<!-- <img src="https://raw.githubusercontent.com/pranshulmashta/pranshulmashta/main/pngwing.com.png" width=40% align="right"> -->
 
 <p>I am <b>Pranshul Mashta</b> based in Delhi, India. I am a Data enthusiast, pursued B.Tech in Mechanical and Automation Enginering from Guru Gobind Singh Indraprastha University, Delhi. After graduating, I worked in Supply Chain and Business Development. Finally I discovered my love for Data Analytics and now I am on a journey to pursue it for years to come.
   
