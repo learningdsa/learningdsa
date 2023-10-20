@@ -9,7 +9,7 @@ I am skilled in SQL, Advance Excel, Power BI/ Tableau for dashbaords and big dat
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshulmashta&" alt="pranshulmashta" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshulmashta)](https://github.com/pranshulmashta/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshulmashta&hide_progress=true)
 
 <div align="left">
 <a href="https://www.linkedin.com/in/pranshul-mashta-756987b8/" target="_blank">
