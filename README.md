@@ -1,6 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/pranshulmashta/pranshulmashta/main/pngwing.com.png" width=40% align="right"> -->
 
-<p>I am <b>Pranshul Mashta</b> based in Delhi, India. I am a Data enthusiast, pursued B.Tech in Mechanical and Automation Enginering from Guru Gobind Singh Indraprastha University, Delhi. After graduating, I worked in Supply Chain and Business Development. Finally I discovered my love for Data Analytics and now I am on a journey to pursue it for years to come.
+<p>I am <b>a programmer </b> based in Delhi, India. I am a Data enthusiast, pursued B.Tech in Mechanical and Automation Enginering from Guru Gobind Singh Indraprastha University, Delhi. After graduating, I worked in Supply Chain and Business Development. Finally I discovered my love for Data Analytics and now I am on a journey to pursue it for years to come.
   
 I am skilled in SQL, Advance Excel, Power BI/ Tableau for dashbaords and big data analytics, Statistics for Data Analysis, Python 3.xx for data pre processing, EDA, data visualization.<!-- I am currenltly learning Data Structure and algorithms in C/C++ along with Machine Learning to further level up my skill-set and become an efficent data scientist.-->
   
