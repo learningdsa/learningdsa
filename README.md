@@ -21,7 +21,7 @@ I am skilled in SQL, Advance Excel, Power BI/ Tableau for dashbaords and big dat
 <!--  <a href="https://www.kaggle.com/pranshulmashta" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />-->
 </a>  
-<1-- <a href="mailto:pranshul.mashta@gmail.com" target="_blank">
+<!-- <1-- <a href="mailto:pranshul.mashta@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=Kaggle&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  -->
 </a>  
 <!--
