@@ -9,7 +9,7 @@ I am skilled in SQL, Advance Excel, Power BI/ Tableau for dashbaords and big dat
 <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p> -->
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshulmashta&" alt="pranshulmashta" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshulmashta&" alt="pranshulmashta" /></p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranshulmashta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -21,16 +21,16 @@ I am skilled in SQL, Advance Excel, Power BI/ Tableau for dashbaords and big dat
 <!--  <a href="https://www.kaggle.com/pranshulmashta" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />-->
 </a>  
-<a href="mailto:pranshul.mashta@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=Kaggle&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<1-- <a href="mailto:pranshul.mashta@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?style=for-the-badge&logo=Kaggle&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  -->
 </a>  
 <!--
 <a href="https://www.hackerrank.com/pranshulmashta" target="_blank">
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white?style=for-the-badge&logo=linkedin&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 -->
 </a>
-<a href="https://leetcode.com/pranshulmashta/" target="_blank">
-<img src=	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?style=for-the-badge&logo=HackerRank&logoColor=white?style=for-the-badge&logo=linkedin&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<!-- <a href="https://leetcode.com/pranshulmashta/" target="_blank">
+<img src=	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black?style=for-the-badge&logo=HackerRank&logoColor=white?style=for-the-badge&logo=linkedin&logoColor=white?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  -->
 
 
 
